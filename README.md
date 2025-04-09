@@ -1,7 +1,7 @@
 # ospov0
 An OSPO website template by v0.dev https://ospov0.vercel.app/
 
-## guide
+## Guide
 
 This project was initiated by v0.dev with Next.js.
 
@@ -20,4 +20,16 @@ build
 npm run build
 npm run start
 ```
+
+## screenshots
+### Home in Chinese
+<img src="screenshots/ospov0.1.png" /> 
+### Home in English
+<img src="screenshots/ospov0.2.png" /> 
+### Projects & Resources 
+<img src="screenshots/ospov0.3.png" width='45%'/> 
+<img src="screenshots/ospov0.4.png" width='45%'/> 
+
+## License
+
 

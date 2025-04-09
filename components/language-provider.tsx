@@ -124,7 +124,7 @@ const translations = {
     "resources.cases.title": "成功案例",
 
     // Footer
-    "footer.copyright": "© 2025 OSPO. 保留所有权利。",
+    "footer.copyright": "© 2025 OSPO. 版权所有。",
     "footer.contact": "联系我们",
   },
 }
