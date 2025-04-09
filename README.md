@@ -23,11 +23,11 @@ npm run start
 
 ## screenshots
 
-### Home in Chinese
-<img src="screenshots/ospov0.1.png" /> 
-
 ### Home in English
 <img src="screenshots/ospov0.2.png" /> 
+
+### Home in Chinese
+<img src="screenshots/ospov0.1.png" /> 
 
 ### Projects & Resources 
 <img src="screenshots/ospov0.3.png" width='45%'/> 
