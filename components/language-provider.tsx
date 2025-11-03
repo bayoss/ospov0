@@ -19,6 +19,7 @@ const translations = {
     "nav.capabilities": "Capabilities",
     "nav.projects": "Projects",
     "nav.resources": "Resources",
+    "nav.compliance": "Compliance",
 
     // Home page
     "home.title": "Open Source Program Office",
@@ -123,6 +124,8 @@ const translations = {
     "nav.capabilities": "能力建设",
     "nav.projects": "项目列表",
     "nav.resources": "资源中心",
+    "nav.compliance": "开源合规",
+
 
     // Home page
     "home.title": "开源项目办公室",
